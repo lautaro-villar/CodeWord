@@ -1,0 +1,40 @@
+.consola-contenedor {
+    width: 500px;
+    background-color: black;
+    overflow: hidden;
+    align-items: center;
+
+}
+
+.consola-header {
+    /* height: 35px; */
+    padding: 10px;
+    background-color: #333;
+    text-align: right;
+}
+
+.consola-header button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.consola-header button:hover {
+    background-color: #45a049;
+}
+
+.consola {
+
+    padding: 10px;
+    overflow-x: auto;
+    font-family: 'Consolas', 'Courier New', monospace;
+
+}
+
+.hljs {
+    background: black !important;
+    color: white !important;
+}

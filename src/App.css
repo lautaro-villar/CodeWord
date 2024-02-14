@@ -1,0 +1,29 @@
+html,body {
+
+  margin: 0;
+  padding: 0;
+
+}
+
+* {
+
+  box-sizing: border-box;
+
+}
+
+h1{
+
+text-align: center;
+
+}
+.containerConsolas{
+
+  width: 700px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin: 20px auto; 
+  align-items: center;
+  
+  }

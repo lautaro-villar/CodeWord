@@ -3,7 +3,7 @@
     background-color: black;
     overflow: hidden;
     align-items: center;
-
+    border-radius: 5px;
 }
 
 .consola-header {
